@@ -1,0 +1,501 @@
+﻿id_pedido,data_venda,cpf_cliente,email_cliente,uf,produto,categoria,quantidade,preco_unitario,desconto,canal_venda,status_pagamento
+PED-10001,2026-10-18,332.181.960-00,cliente1@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,1,1590.0,0.0,Site Oficial,Pendente
+PED-10002,2026-10-13,863.794.026-91,cliente2@dominio.com.br,XX,Headset Noise Cancelling,Áudio,1,899.0,134.85,Marketplace,Pendente
+PED-10003,2026-10-23,594.078.161-68,cliente3@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,Marketplace,Cancelado
+PED-10004,2026-10-15,413.164.752-47,cliente4@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,1,1590.0,0.0,Marketplace,Pendente
+PED-10005,2026-10-11,832.764.835-72,cliente5@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,1,1590.0,238.5,App Mobile,Aprovado
+PED-10006,2026-10-14,953.767.242-55,cliente6@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,3,289.5,0.0,Marketplace,Estornado
+PED-10007,2026-10-09,871.012.269-90,cliente7@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,3,289.5,0.0,WhatsApp Comercial,Estornado
+PED-10008,2026-11-05,018.451.462-20,cliente8@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Site Oficial,Cancelado
+PED-10009,2026-10-20,893.252.880-28,cliente9@dominio.com.br,SPO,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,Marketplace,Estornado
+PED-10010,2026-10-06,171.822.782-51,cliente10@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Pendente
+PED-10011,2026-10-26,123.456.789-00,cliente11@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,2,1590.0,159.0,App Mobile,Pendente
+PED-10012,2026-10-05,834.738.299-94,cliente12@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,App Mobile,Estornado
+PED-10012,2026-10-28,566.701.065-80,cliente13@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,App Mobile,Pendente
+PED-10014,2026-10-18,731.781.080-09,cliente14@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,4,2899.0,0.0,App Mobile,Pendente
+PED-10015,2026-10-04,260.647.468-66,cliente15@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,2,289.5,57.9,App Mobile,Pendente
+PED-10016,2026-10-04,500.978.820-97,email@,PE,Notebook Pro 16,Eletrônicos,5,6499.9,4874.93,Site Oficial,Pendente
+PED-10017,2026-10-16,990.916.998-33,cliente17@dominio.com.br,RS,Mouse Wireless Ergonomic,Periféricos,1,289.5,43.42,Marketplace,Pendente
+PED-10018,2026-10-26,247.510.799-56,cliente18@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,2,459.9,45.99,Site Oficial,Pendente
+PED-10019,2026-10-16,542.784.980-71,cliente19@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,Marketplace,Aprovado
+PED-10020,2026-10-07,824.493.534-02,cliente20@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,WhatsApp Comercial,Cancelado
+PED-10021,data_pendente,005.242.786-28,cliente21@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,1,6499.9,649.99,Site Oficial,Aprovado
+PED-10022,2026-11-05,262.045.053-51,cliente22@dominio.com.br,PR,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,Site Oficial,Cancelado
+PED-10023,2026-10-16,226.025.634-12,cliente23@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,Site Oficial,Estornado
+PED-10024,2026-10-30,543.303.654-56,cliente24@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,2,289.5,0.0,Marketplace,Cancelado
+PED-10025,2026-10-02,142.940.196-62,cliente25@dominio.com.br,RS,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Marketplace,Estornado
+PED-10026,2026-10-13,406.088.356-50,cliente26@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,1,899.0,89.9,Marketplace,Cancelado
+PED-10027,2026-10-20,656.482.366-54,cliente27@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,Marketplace,Estornado
+PED-10028,2026-10-14,699.577.738-79,cliente28@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,3,6499.9,974.98,App Mobile,Aprovado
+PED-10029,2026-10-06,343.320.037-80,cliente29@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,5,1590.0,397.5,Site Oficial,Estornado
+PED-10030,2026-10-25,763.201.632-59,cliente30@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,5,1590.0,0.0,WhatsApp Comercial,Aprovado
+PED-10031,2026-10-30,889.579.868-63,cliente31@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,App Mobile,Estornado
+PED-10032,2026-11-01,347.143.455-08,cliente32@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,,1304.55,Site Oficial,Pendente
+PED-10033,2026-10-27,658.760.366-17,cliente33@dominio.com.br,GO,Monitor Ultrawide 34,Periféricos,2,2899.0,0.0,Site Oficial,Estornado
+PED-10034,2026-10-27,889.373.467-29,cliente34@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,3,459.9,137.97,WhatsApp Comercial,Cancelado
+PED-10035,2026-10-09,980.699.016-16,cliente35@dominio.com.br,MG,,Periféricos,2,289.5,57.9,WhatsApp Comercial,Pendente
+PED-10036,2026-10-22,646.417.080-53,cliente36@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,4,2899.0,579.8,App Mobile,Aprovado
+PED-10037,2026-10-16,309.232.719-53,cliente37@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,1,1590.0,0.0,WhatsApp Comercial,Cancelado
+PED-10038,2026-10-08,241.904.966-77,cliente38@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,5,2899.0,21742.5,Site Oficial,Pendente
+PED-10039,2026-10-03,586.518.506-38,cliente39@dominio.com.br,DF,Cadeira Ergonômica Mesh,Escritório,5,1590.0,0.0,Site Oficial,Estornado
+PED-10040,2026-10-28,284.987.769-70,cliente40@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,4,1590.0,0.0,Marketplace,Pendente
+PED-10041,2026-10-16,799.650.752-04,cliente41@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,3,6499.9,1949.97,App Mobile,Cancelado
+PED-10042,2026-10-18,808.313.678-65,cliente42@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,3,459.9,206.95,WhatsApp Comercial,Estornado
+PED-10043,2026-10-15,634.957.885-65,cliente43@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,Marketplace,Cancelado
+PED-10044,2026-10-15,135.182.337-00,cliente44@dominio.com.br,SC,Teclado Mecânico RGB,Periféricos,3,459.9,68.98,Marketplace,Aprovado
+PED-10045,2026-10-12,408.240.084-21,cliente45@dominio.com.br,MG,Teclado Mecânico RGB,Periféricos,2,459.9,45.99,WhatsApp Comercial,Aprovado
+PED-10046,2026-10-31,752.047.116-00,cliente46@dominio.com.br,DF,Headset Noise Cancelling,Áudio,3,899.0,4045.5,Site Oficial,Aprovado
+PED-10047,2026-11-05,699.938.677-30,cliente47@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,2,6499.9,0.0,WhatsApp Comercial,Cancelado
+PED-10048,2026-10-14,341.232.812-06,cliente48@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,5,6499.9,0.0,WhatsApp Comercial,Estornado
+PED-10049,2026-10-15,447.134.936-86,cliente49@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,3,289.5,0.0,App Mobile,Pendente
+PED-10050,2026-10-11,ABC.123.456-99,cliente50@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Estornado
+PED-10051,2026-10-17,013.990.490-54,cliente51@dominio.com.br,MG,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,WhatsApp Comercial,Estornado
+PED-10052,2026-11-01,175.655.125-16,cliente52@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,5,2899.0,1449.5,WhatsApp Comercial,Cancelado
+PED-10053,2026-10-30,154.516.808-33,cliente53@dominio.com.br,12,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,WhatsApp Comercial,Aprovado
+PED-10054,2026-10-14,482.477.109-94,cliente54@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,4,1590.0,0.0,App Mobile,Cancelado
+PED-10055,2026-10-15,171.274.846-78,cliente55@dominio.com.br,DF,Headset Noise Cancelling,Áudio,4,899.0,0.0,WhatsApp Comercial,Pendente
+PED-10056,2026-11-02,214.658.404-19,cliente56@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,4,2899.0,0.0,WhatsApp Comercial,Pendente
+PED-10057,2026-11-05,867.533.963-14,cliente57@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,3,289.5,43.43,Site Oficial,Cancelado
+PED-10058,2026-10-10,702.895.171-50,cliente58@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,WhatsApp Comercial,Aprovado
+PED-10059,2026-10-31,459.615.865-70,cliente59@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,2,289.5,0.0,Site Oficial,Aprovado
+PED-10060,2026-10-06,611.724.005-80,cliente60@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Marketplace,Cancelado
+PED-10061,2026-10-27,922.219.693-75,cliente61@dominio.com.br,DF,Monitor Ultrawide 34,Periféricos,2,2899.0,869.7,App Mobile,Pendente
+PED-10062,2026-10-01,748.217.594-62,cliente62@dominio.com.br,BA,Teclado Mecânico RGB,Periféricos,4,459.9,91.98,Marketplace,Estornado
+PED-10063,2026-10-07,369.594.406-45,cliente63@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,4,2899.0,1159.6,Site Oficial,Aprovado
+PED-10064,2026-10-15,953.394.210-07,cliente64@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,4,1590.0,318.0,WhatsApp Comercial,Aprovado
+PED-10065,2026-10-19,562.328.588-08,cliente65@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,App Mobile,Cancelado
+PED-10066,2026-10-08,712.368.516-41,cliente66@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,3,289.5,43.43,Marketplace,Aprovado
+PED-10067,2026-10-25,513.709.859-08,cliente67@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,Site Oficial,Estornado
+PED-10068,2026-10-09,004.711.382-07,cliente68@dominio.com.br,BA,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,WhatsApp Comercial,Cancelado
+PED-10069,2026-10-10,617.964.053-02,cliente69@dominio.com.br,DF,Cadeira Ergonômica Mesh,Escritório,5,1590.0,795.0,WhatsApp Comercial,Pendente
+PED-10070,2026-10-23,064.317.139-82,cliente70@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,Site Oficial,Cancelado
+PED-10071,2026-10-05,839.335.290-85,cliente71@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,App Mobile,Pendente
+PED-10072,2026-10-09,053.950.240-50,cliente72@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Aprovado
+PED-10073,2026-11-02,917.839.084-24,cliente73@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,4,289.5,57.9,Site Oficial,Aprovado
+PED-10074,2026-11-01,711.592.124-57,cliente74@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,4,289.5,0.0,Marketplace,Estornado
+PED-10075,2026-11-02,961.183.673-29,cliente75@dominio.com.br,BA,Headset Noise Cancelling,Áudio,3,899.0,269.7,Marketplace,Estornado
+PED-10076,2026-10-28,545.271.111-24,cliente76@dominio.com.br,BA,Cadeira Ergonômica Mesh,Escritório,1,1590.0,79.5,Site Oficial,Cancelado
+PED-10077,2026-11-05,851.656.049-00,cliente77@dominio.com.br,SC,Headset Noise Cancelling,Áudio,1,899.0,134.85,Marketplace,Aprovado
+PED-10078,2026-10-15,158.514.936-58,cliente78@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,2,2899.0,8697.0,Site Oficial,Cancelado
+PED-10079,2026-10-23,022.961.201-64,cliente79@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,3,1590.0,238.5,App Mobile,Estornado
+PED-10080,2026-10-20,599.102.290-99,cliente80@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,2,459.9,45.99,Marketplace,Estornado
+PED-10081,2026-10-27,438.156.149-02,cliente81@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,5,289.5,144.75,Marketplace,Aprovado
+PED-10082,2026-10-14,432.445.107-95,cliente82@dominio.com.br,BA,Headset Noise Cancelling,Áudio,1,899.0,0.0,App Mobile,Pendente
+PED-10083,2026-11-05,516.060.715-30,cliente83@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,2,1590.0,477.0,WhatsApp Comercial,Estornado
+PED-10084,2026-10-26,052.975.161-53,cliente84@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,3,289.5,0.0,WhatsApp Comercial,Estornado
+PED-10085,2026-10-15,521.818.835-21,cliente85@dominio.com.br,RS,Mouse Wireless Ergonomic,Periféricos,3,289.5,1302.75,App Mobile,Pendente
+PED-10086,2026-10-10,127.799.799-33,cliente86@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,2,2899.0,869.7,Marketplace,Pendente
+PED-10087,2026-10-18,905.814.770-30,,SP,Mouse Wireless Ergonomic,Periféricos,4,289.5,57.9,Marketplace,Cancelado
+PED-10088,2026-10-03,793.597.820-41,cliente88@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,5,289.5,217.12,Site Oficial,Cancelado
+PED-10089,2026-10-03,377.889.255-00,cliente89@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,5,6499.9,0.0,WhatsApp Comercial,Estornado
+PED-10090,2026-10-22,151.864.492-96,cliente90@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,5,1590.0,0.0,Site Oficial,Pendente
+PED-10091,2026-10-06,486.528.168-16,cliente91@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,Site Oficial,Cancelado
+PED-10092,2026-10-13,322.141.888-43,cliente92@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,3,2899.0,869.7,Marketplace,Pendente
+PED-10093,2026-10-11,706.537.947-70,cliente93@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,2,2899.0,0.0,App Mobile,Cancelado
+PED-10094,2026-10-29,746.886.239-76,cliente94@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,2,289.5,28.95,Marketplace,Aprovado
+PED-10095,2026-11-03,141.247.826-08,cliente95@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,5,459.9,0.0,App Mobile,Estornado
+PED-10096,2026-10-26,853.615.305-90,cliente96@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,4,6499.9,38999.4,Marketplace,Pendente
+PED-10097,2026-10-29,901.043.289-08,cliente97@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,2,289.5,57.9,WhatsApp Comercial,Aprovado
+PED-10098,2026-10-04,369.711.798-03,cliente98@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,App Mobile,Pendente
+PED-10099,2026-10-16,962.185.188-25,cliente99@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,Site Oficial,Estornado
+PED-10100,2026-10-17,051.531.952-01,cliente100@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,4,6499.9,1299.98,Marketplace,Cancelado
+PED-10101,2026-10-12,217.043.030-01,cliente101@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,4,2899.0,1159.6,Marketplace,Estornado
+PED-10102,2026-10-03,345.054.156-00,cliente102@dominio.com.br,BA,Headset Noise Cancelling,Áudio,4,899.0,179.8,WhatsApp Comercial,Estornado
+PED-10103,2026-10-24,841.616.928-46,cliente103@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,4,2899.0,17394.0,Marketplace,Aprovado
+PED-10104,2026-10-28,275.705.964-55,cliente104@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,4,459.9,275.94,Site Oficial,Estornado
+PED-10105,2026-10-10,970.213.556-70,cliente105@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,Site Oficial,Pendente
+PED-10106,2026-10-05,928.565.431-20,cliente106@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,3,459.9,137.97,App Mobile,Estornado
+PED-10107,2026-10-17,739.473.121-99,cliente107@dominio.com.br,DF,Headset Noise Cancelling,Áudio,1,899.0,44.95,App Mobile,Estornado
+PED-10108,2026-10-05,884.422.583-29,cliente108@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,3,1590.0,238.5,App Mobile,Pendente
+PED-10109,2026-11-05,957.829.114-09,cliente109@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,WhatsApp Comercial,Estornado
+PED-10110,2026-10-21,177.852.892-98,cliente110@dominio.com.br,MG,Headset Noise Cancelling,Áudio,1,899.0,0.0,WhatsApp Comercial,Aprovado
+PED-10111,2026-10-11,253.584.143-63,cliente111@dominio.com.br,PE,Headset Noise Cancelling,Áudio,2,899.0,89.9,Marketplace,Pendente
+PED-10112,2026-11-02,299.229.959-64,cliente112@dominio.com.br,SP,Headset Noise Cancelling,Áudio,5,899.0,6742.5,Site Oficial,Aprovado
+PED-10113,2026-10-27,907.844.736-25,cliente113@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,2,1590.0,477.0,WhatsApp Comercial,Aprovado
+PED-10114,2026-10-31,735.925.556-26,cliente114@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,4,2899.0,1159.6,Marketplace,Aprovado
+PED-10115,31/02/2026,321.046.963-64,cliente115@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,Marketplace,Cancelado
+PED-10116,2026-10-20,701.687.339-00,cliente116@dominio.com.br,RS,Headset Noise Cancelling,Áudio,4,899.0,359.6,Site Oficial,Aprovado
+PED-10117,2026-11-04,016.245.650-69,cliente117@dominio.com.br,BA,Headset Noise Cancelling,Áudio,4,899.0,179.8,Site Oficial,Pendente
+PED-10118,2026-11-02,784.991.216-08,cliente118@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,Marketplace,Cancelado
+PED-10119,2026-10-26,800.025.787-43,cliente119@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,5,2899.0,2174.25,App Mobile,Cancelado
+PED-10120,2026-10-20,958.887.947-75,cliente120@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,2,459.9,91.98,Marketplace,Cancelado
+PED-10121,2026-10-02,974.993.097-54,cliente121@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,WhatsApp Comercial,Pendente
+PED-10122,2026-10-08,307.562.636-89,cliente122@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,1,2899.0,434.85,WhatsApp Comercial,Aprovado
+PED-10123,2026-10-21,786.527.858-64,cliente123@dominio.com.br,RS,Headset Noise Cancelling,Áudio,-2,899.0,269.7,Marketplace,Estornado
+PED-10124,2026-10-20,437.575.844-90,cliente124@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,3,899.0,0.0,WhatsApp Comercial,Estornado
+PED-10125,2026-10-19,157.473.384-20,cliente125@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,0,2899.0,0.0,Marketplace,Pendente
+PED-10126,2026-10-15,016.571.208-21,cliente126@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,5,6499.9,0.0,WhatsApp Comercial,Estornado
+PED-10127,2026-10-19,019.380.262-76,cliente127@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,3,2899.0,13045.5,WhatsApp Comercial,Estornado
+PED-10128,2026-10-07,547.887.287-37,cliente128@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,App Mobile,Aprovado
+PED-10129,2026-10-12,054.932.966-83,cliente129@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,4,1590.0,318.0,Marketplace,Aprovado
+PED-10130,2026-10-31,530.463.745-34,cliente130@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,2,6499.9,0.0,Site Oficial,Cancelado
+PED-10131,2026-10-08,742.684.145-68,cliente131@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,App Mobile,Pendente
+PED-10132,2026-10-24,687.833.918-94,cliente132@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,2,289.5,57.9,Marketplace,Aprovado
+PED-10133,2026-11-02,398.225.871-55,cliente133@dominio.com.br,PR,Notebook Pro 16,Eletrônicos,1,6499.9,974.98,WhatsApp Comercial,Aprovado
+PED-10134,2026-10-09,867.908.740-89,cliente134@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,1,289.5,28.95,Marketplace,Aprovado
+PED-10135,2026-10-28,518.017.046-00,cliente135@dominio.com.br,MG,Headset Noise Cancelling,Áudio,1,899.0,0.0,App Mobile,Estornado
+PED-10136,2026-10-25,182.512.868-59,cliente136@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,4,289.5,115.8,App Mobile,Aprovado
+PED-10137,2026-10-28,863.375.243-30,cliente137@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,4,459.9,275.94,Site Oficial,Estornado
+PED-10138,2026-10-05,190.790.306-27,cliente138@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,2,6499.9,0.0,App Mobile,Pendente
+PED-10139,2026-10-19,395.995.342-98,cliente139@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,2,6499.9,1949.97,App Mobile,Estornado
+PED-10140,2026-10-12,687.056.856-13,cliente140@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,5,6499.9,4874.93,App Mobile,Cancelado
+PED-10141,2026-10-15,427.086.688-89,cliente141@dominio.com.br,MG,Headset Noise Cancelling,Áudio,4,899.0,0.0,WhatsApp Comercial,Pendente
+PED-10142,2026-10-24,183.046.990-87,cliente142@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,App Mobile,Pendente
+PED-10143,2026-10-14,317.393.638-84,cliente143@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,3,459.9,0.0,Marketplace,Estornado
+PED-10144,2026-10-17,587.717.535-16,cliente144@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,3,1590.0,238.5,WhatsApp Comercial,Aprovado
+PED-10145,2026-10-17,899.642.353-05,cliente145@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,2,2899.0,0.0,App Mobile,Estornado
+PED-10146,2026-11-01,772.522.872-11,cliente146@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,3,1590.0,238.5,Site Oficial,Aprovado
+PED-10147,2026-10-27,,cliente147@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,WhatsApp Comercial,Estornado
+PED-10148,2026-11-04,408.621.182-39,cliente148@dominio.com.br,PR,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,App Mobile,Cancelado
+PED-10149,2026-10-24,679.334.101-46,cliente149@dominio.com.br,BA,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,WhatsApp Comercial,Estornado
+PED-10150,2026-10-06,765.918.033-94,   ,GO,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,WhatsApp Comercial,Cancelado
+PED-10151,2026-10-12,503.926.142-00,cliente151@dominio.com.br,GO,Headset Noise Cancelling,Áudio,5,899.0,0.0,App Mobile,Estornado
+PED-10152,2026-10-09,185.016.315-40,cliente152@dominio.com.br,GO,Headset Noise Cancelling,Áudio,3,899.0,4045.5,WhatsApp Comercial,Cancelado
+PED-10153,2026-10-23,866.296.194-04,cliente153@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,4,289.5,0.0,Site Oficial,Aprovado
+PED-10154,2026-10-21,511.047.541-50,cliente154@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,2,289.5,57.9,Site Oficial,Pendente
+PED-10155,2026-10-27,101.581.995-88,cliente155@dominio.com.br,BA,Headset Noise Cancelling,Áudio,5,899.0,674.25,Site Oficial,Cancelado
+PED-10156,2026-11-03,262.244.472-92,cliente156@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,5,6499.9,0.0,App Mobile,Estornado
+PED-10157,2026-10-24,437.993.712-73,cliente157@dominio.com.br,SC,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,Site Oficial,Estornado
+PED-10158,2026-10-29,569.245.937-04,cliente158@dominio.com.br,RS,Headset Noise Cancelling,Áudio,4,899.0,179.8,App Mobile,Estornado
+PED-10159,2026-10-16,564.651.939-06,cliente159@dominio.com.br,PE,Teclado Mecânico RGB,Periféricos,4,459.9,275.94,App Mobile,Aprovado
+PED-10160,2026-10-19,167.243.426-27,cliente160@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,2,289.5,57.9,Site Oficial,Estornado
+PED-10161,2026-11-04,868.058.911-08,cliente161@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,5,289.5,144.75,Marketplace,Pendente
+PED-10162,2026-10-22,610.143.888-05,cliente162@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,5,6499.9,3249.95,App Mobile,Estornado
+PED-10163,2026-10-10,507.146.112-98,cliente163@dominio.com.br,RS,Mouse Wireless Ergonomic,Periféricos,5,289.5,217.12,Marketplace,Cancelado
+PED-10164,2026-10-23,717.751.401-56,cliente164@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,5,2899.0,1449.5,Marketplace,Aprovado
+PED-10165,2026-10-12,825.867.362-90,cliente165@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,-2,2899.0,869.7,WhatsApp Comercial,Estornado
+PED-10165,2026-10-01,334.191.825-62,cliente166@dominio.com.br,RS,Headset Noise Cancelling,Áudio,4,899.0,359.6,App Mobile,Estornado
+PED-10167,2026-10-25,969.155.792-49,cliente167@dominio.com.br,SC,Headset Noise Cancelling,Áudio,3,899.0,404.55,Site Oficial,Pendente
+PED-10168,2026-10-12,528.669.296-67,cliente168@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,App Mobile,Estornado
+PED-10169,2026-10-11,742.257.905-68,cliente169@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,2,,477.0,WhatsApp Comercial,Pendente
+PED-10170,2026-11-01,677.219.034-32,cliente170@dominio.com.br,SP,Headset Noise Cancelling,Áudio,4,899.0,359.6,Marketplace,Pendente
+PED-10171,2026-11-01,881.914.858-77,cliente171@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,4,2899.0,1739.4,WhatsApp Comercial,Pendente
+PED-10172,2026-10-03,745.171.339-31,cliente172@dominio.com.br,RS,Notebook Pro 16,Eletrônicos,2,6499.9,649.99,WhatsApp Comercial,Pendente
+PED-10173,2026-10-23,849.825.449-30,cliente173@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,2,2899.0,0.0,Site Oficial,Pendente
+PED-10174,2026-10-09,232.536.729-05,cliente174@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,WhatsApp Comercial,Estornado
+PED-10175,2026-11-02,,cliente175@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,1,1590.0,159.0,Site Oficial,Estornado
+PED-10176,31/02/2026,589.297.500-28,cliente176@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,3,289.5,43.43,WhatsApp Comercial,Aprovado
+PED-10177,2026-10-13,242.415.415-50,cliente177@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,1,289.5,28.95,Site Oficial,Estornado
+PED-10178,2026-10-06,103.712.938-55,cliente178@dominio.com.br,DF,Cadeira Ergonômica Mesh,Escritório,2,1590.0,318.0,Site Oficial,Aprovado
+PED-10179,2026-10-31,136.111.554-89,cliente179@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,WhatsApp Comercial,Pendente
+PED-10180,2026-11-03,909.275.326-20,email@,GO,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,WhatsApp Comercial,Pendente
+PED-10181,2026-10-23,652.341.389-68,cliente181@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,5,6499.9,3249.95,Marketplace,Aprovado
+PED-10182,2026-11-03,983.640.376-09,cliente182@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,App Mobile,Estornado
+PED-10183,2026-10-24,526.965.827-50,cliente183@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,0,6499.9,0.0,Site Oficial,Aprovado
+PED-10184,2026-10-19,866.618.892-84,cliente184@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,0,6499.9,3899.94,Site Oficial,Cancelado
+PED-10185,2026-10-05,463.031.617-58,cliente185@dominio.com.br,GO,Headset Noise Cancelling,Áudio,3,899.0,269.7,Site Oficial,Cancelado
+PED-10186,2026-10-01,202.758.842-60,cliente186@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,App Mobile,Cancelado
+PED-10187,2026-10-28,481.491.778-33,cliente187@dominio.com.br,RS,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,Site Oficial,Estornado
+PED-10188,2026-10-17,191.380.003-26,cliente188@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,WhatsApp Comercial,Cancelado
+PED-10189,2026-11-05,ABC.123.456-99,cliente189@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,2,2899.0,0.0,Site Oficial,Aprovado
+PED-10190,2026-10-20,518.705.349-30,cliente190@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,4,6499.9,1299.98,App Mobile,Estornado
+PED-10191,2026-10-16,206.038.505-96,cliente191@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,-2,289.5,86.85,WhatsApp Comercial,Cancelado
+PED-10192,2026-10-18,ABC.123.456-99,cliente192@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,App Mobile,Estornado
+PED-10193,31/02/2026,456.557.431-40,cliente193@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,App Mobile,Aprovado
+PED-10194,2026-10-08,853.747.411-87,cliente194@dominio.com.br,BR,Mouse Wireless Ergonomic,Periféricos,3,289.5,86.85,Marketplace,Aprovado
+PED-10195,2026-10-26,804.420.678-79,cliente195@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,2,6499.9,649.99,App Mobile,Aprovado
+PED-10195,2026-10-04,323.651.994-02,cliente196@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,Site Oficial,Aprovado
+PED-10197,2026-10-08,070.296.670-34,cliente197@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,1,2899.0,144.95,WhatsApp Comercial,Pendente
+PED-10198,2026-10-29,,cliente198@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,2899.0,434.85,WhatsApp Comercial,Aprovado
+PED-10199,2026-10-16,806.578.759-29,cliente199@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,2,289.5,86.85,Marketplace,Estornado
+PED-10200,2026-10-15,040.785.932-24,cliente200@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,App Mobile,Pendente
+PED-10201,2026-10-25,522.395.590-04,cliente201@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,1,1590.0,0.0,App Mobile,Pendente
+PED-10202,2026-10-12,701.039.308-76,cliente202@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Site Oficial,Cancelado
+PED-10203,2026-10-12,500.292.185-00,cliente203@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,2,2899.0,289.9,Marketplace,Estornado
+PED-10204,2026-10-09,267.528.953-17,cliente204@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,3,459.9,68.98,App Mobile,Estornado
+PED-10205,2026-10-12,096.902.959-42,email@,PR,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Site Oficial,Estornado
+PED-10206,2026-10-06,570.433.154-84,cliente206@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,3,459.9,0.0,Site Oficial,Aprovado
+PED-10207,2026-10-27,765.861.793-86,cliente207@dominio.com.br,MG,Cadeira Ergonômica Mesh,Escritório,4,1590.0,0.0,WhatsApp Comercial,Aprovado
+PED-10208,2026-10-21,411.526.218-40,cliente208@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,3,6499.9,0.0,Marketplace,Estornado
+PED-10209,2026-10-28,201.533.688-53,cliente209@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,2,289.5,86.85,Marketplace,Cancelado
+PED-10210,data_pendente,720.506.149-00,cliente210@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,4,6499.9,3899.94,App Mobile,Aprovado
+PED-10211,2026-10-08,99999999999,cliente211@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,WhatsApp Comercial,Cancelado
+PED-10212,2026-10-15,490.211.586-71,cliente212@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,4,289.5,57.9,App Mobile,Aprovado
+PED-10213,2026-10-31,937.416.089-71,cliente213@dominio.com.br,PE,Headset Noise Cancelling,Áudio,4,899.0,539.4,App Mobile,Aprovado
+PED-10214,2026-10-14,320.616.329-39,cliente214@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,2,,0.0,Marketplace,Aprovado
+PED-10215,2026-10-30,099.861.622-20,cliente215@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,3,459.9,206.95,Site Oficial,Aprovado
+PED-10216,2026-10-23,646.799.702-60,cliente216@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,WhatsApp Comercial,Pendente
+PED-10217,2026-10-26,530.745.054-00,cliente217@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,4,1590.0,0.0,Marketplace,Estornado
+PED-10218,2026-10-09,475.469.137-72,cliente218@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,1,1590.0,0.0,WhatsApp Comercial,Estornado
+PED-10219,2026-10-11,148.628.902-96,cliente219@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,1,459.9,68.98,App Mobile,Aprovado
+PED-10220,2026-10-13,457.861.035-79,cliente220@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,WhatsApp Comercial,Pendente
+PED-10221,2026-10-23,524.140.602-63,cliente221@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,5,289.5,217.12,App Mobile,Pendente
+PED-10222,2026-10-27,800.722.903-58,cliente222@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,2,1590.0,159.0,Marketplace,Cancelado
+PED-10223,2026-10-17,374.896.910-44,cliente223@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,3,289.5,86.85,Marketplace,Cancelado
+PED-10224,2026-10-22,454.443.283-99,cliente224@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,WhatsApp Comercial,Cancelado
+PED-10225,2026-10-19,466.609.935-25,cliente225@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,1,1590.0,159.0,WhatsApp Comercial,Cancelado
+PED-10226,2026-10-19,172.482.513-56,cliente226@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,App Mobile,Cancelado
+PED-10227,2026-10-19,717.099.917-04,cliente227@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,3,459.9,68.98,Site Oficial,Estornado
+PED-10228,2026-10-09,356.972.521-96,cliente228@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,Marketplace,Pendente
+PED-10229,2026-10-18,329.271.296-30,cliente229@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,1,6499.9,649.99,WhatsApp Comercial,Estornado
+PED-10230,2026-11-04,350.583.003-89,cliente230@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,1,,0.0,Marketplace,Cancelado
+PED-10231,2026-10-05,044.789.856-69,cliente231@dominio.com.br,MG,Headset Noise Cancelling,Áudio,3,899.0,0.0,Marketplace,Estornado
+PED-10232,2026-10-02,332.309.821-85,cliente232@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,2,2899.0,579.8,Site Oficial,Estornado
+PED-10233,2026-10-04,901.001.676-59,cliente233@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,5,459.9,344.93,Marketplace,Estornado
+PED-10234,2026-10-27,184.992.618-25,,GO,Monitor Ultrawide 34,Periféricos,1,2899.0,144.95,Site Oficial,Cancelado
+PED-10235,2026-10-17,835.642.087-39,cliente235@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,WhatsApp Comercial,Cancelado
+PED-10236,2099-12-31,218.114.374-94,cliente236@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,WhatsApp Comercial,Aprovado
+PED-10237,2026-10-28,110.022.557-91,cliente237@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,3,459.9,68.98,Marketplace,Aprovado
+PED-10238,2026-10-26,674.676.212-21,cliente238@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,2,459.9,0.0,App Mobile,Aprovado
+PED-10239,2026-10-29,296.590.277-53,cliente239@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,4,899.0,5394.0,WhatsApp Comercial,Estornado
+PED-10240,2026-11-03,993.588.916-53,cliente240@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,WhatsApp Comercial,Cancelado
+PED-10241,2026-11-05,900.287.721-80,cliente241@dominio.com.br,DF,Cadeira Ergonômica Mesh,Escritório,4,1590.0,0.0,Marketplace,Pendente
+PED-10242,2026-10-15,866.317.797-66,cliente242@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,1,459.9,68.98,WhatsApp Comercial,Estornado
+PED-10243,2026-10-26,608.801.994-82,cliente243@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,App Mobile,Estornado
+PED-10244,2026-10-30,589.975.711-68,cliente244@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,1,459.9,0.0,Site Oficial,Cancelado
+PED-10245,2026-11-03,,cliente245@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,App Mobile,Pendente
+PED-10246,2026-10-07,609.177.982-60,cliente246@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,2,289.5,28.95,Site Oficial,Aprovado
+PED-10247,2026-11-02,292.216.995-28,cliente247@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,5,289.5,144.75,WhatsApp Comercial,Estornado
+PED-10248,2026-10-26,547.226.984-90,cliente248@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,2,1590.0,4770.0,Marketplace,Pendente
+PED-10249,2026-10-12,885.158.799-05,cliente249@dominio.com.br,BA,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Marketplace,Estornado
+PED-10250,2026-10-25,200.342.442-39,cliente250@dominio.com.br,SP,Headset Noise Cancelling,Áudio,1,899.0,0.0,Marketplace,Pendente
+PED-10251,2026-10-07,983.863.840-42,cliente251@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,3,6499.9,1949.97,WhatsApp Comercial,Estornado
+PED-10252,2026-10-04,043.973.598-06,cliente252@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,App Mobile,Pendente
+PED-10253,2026-10-12,816.064.842-14,cliente253@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,Marketplace,Aprovado
+PED-10254,2026-10-10,590.947.985-73,cliente254@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,Marketplace,Pendente
+PED-10254,2026-10-11,688.615.335-82,cliente255@dominio.com.br,RS,Headset Noise Cancelling,Áudio,1,899.0,134.85,Marketplace,Cancelado
+PED-10256,2026-10-23,739.930.561-75,cliente256@dominio.com.br,12,Headset Noise Cancelling,Áudio,1,899.0,0.0,Marketplace,Cancelado
+PED-10257,2026-10-13,581.128.801-82,cliente257@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,App Mobile,Estornado
+PED-10258,2026-10-05,207.501.102-87,cliente258@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,5,2899.0,1449.5,Site Oficial,Pendente
+PED-10259,2026-10-26,650.618.091-90,cliente259@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,4,289.5,115.8,Site Oficial,Aprovado
+PED-10260,2026-10-20,914.766.072-49,cliente260@dominio.com.br,PE,Headset Noise Cancelling,Áudio,1,899.0,44.95,App Mobile,Pendente
+PED-10261,2026-10-20,508.821.009-47,cliente261@dominio.com.br,GO,Headset Noise Cancelling,Áudio,3,899.0,0.0,WhatsApp Comercial,Aprovado
+PED-10262,2026-10-27,822.239.431-28,cliente262@dominio.com.br,MG,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Site Oficial,Estornado
+PED-10263,2026-10-17,139.755.231-07,cliente263@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,3,6499.9,0.0,Site Oficial,Pendente
+PED-10264,2026-10-20,929.955.620-26,cliente264@dominio.com.br,RS,Mouse Wireless Ergonomic,Periféricos,3,289.5,130.28,App Mobile,Pendente
+PED-10265,2026-10-24,257.775.478-77,cliente265@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,4,1590.0,318.0,App Mobile,Aprovado
+PED-10266,2026-10-17,110.809.969-66,cliente266@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,Site Oficial,Cancelado
+PED-10267,2026-10-24,639.427.881-52,cliente267@dominio.com.br,BA,Headset Noise Cancelling,Áudio,4,899.0,0.0,Marketplace,Aprovado
+PED-10268,2026-10-09,722.992.750-10,cliente268@dominio.com.br,BR,Headset Noise Cancelling,Áudio,2,899.0,269.7,WhatsApp Comercial,Pendente
+PED-10269,2026-10-24,677.005.184-24,cliente269@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,2,6499.9,1949.97,App Mobile,Estornado
+PED-10270,2026-11-03,463.865.577-78,cliente270@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,5,459.9,0.0,Site Oficial,Pendente
+PED-10271,2026-10-18,322.259.136-92,cliente271@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,1,2899.0,434.85,Site Oficial,Estornado
+PED-10272,2026-10-11,603.029.922-00,cliente272@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,2,289.5,868.5,Site Oficial,Pendente
+PED-10273,2026-10-02,413.797.723-20,cliente273@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,5,2899.0,1449.5,App Mobile,Pendente
+PED-10274,2026-10-22,799.136.621-92,cliente274@dominio.com.br,SP,Headset Noise Cancelling,Áudio,3,899.0,0.0,App Mobile,Estornado
+PED-10275,2026-10-31,990.881.172-09,cliente275@dominio.com.br,GO,Headset Noise Cancelling,Áudio,1,899.0,0.0,Site Oficial,Estornado
+PED-10276,2026-10-28,376.599.162-70,cliente276@dominio.com.br,SC,Teclado Mecânico RGB,Periféricos,1,459.9,68.98,WhatsApp Comercial,Pendente
+PED-10277,2026-11-04,643.009.818-41,cliente277@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,WhatsApp Comercial,Pendente
+PED-10278,2026-10-07,269.448.695-94,cliente278@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,4,459.9,91.98,Marketplace,Estornado
+PED-10279,2026-10-31,258.874.495-86,cliente279@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,5,289.5,217.12,App Mobile,Aprovado
+PED-10280,2026-10-14,865.890.260-92,cliente280@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,2,289.5,0.0,App Mobile,Estornado
+PED-10281,2026-10-17,351.906.698-07,cliente281@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,Site Oficial,Pendente
+PED-10282,2026-11-03,430.988.392-36,cliente282@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,Marketplace,Pendente
+PED-10283,2026-10-26,566.938.011-88,cliente283@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,1,2899.0,144.95,Marketplace,Cancelado
+PED-10284,2026-10-13,769.042.681-66,cliente284@dominio.com.br,PE,Teclado Mecânico RGB,Periféricos,2,459.9,137.97,Site Oficial,Cancelado
+PED-10285,2026-11-04,947.697.357-90,,DF,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,Site Oficial,Estornado
+PED-10286,2026-10-21,658.804.341-41,cliente286@dominio.com.br,BA,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,Marketplace,Aprovado
+PED-10287,2026-10-23,394.237.333-52,cliente287@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,-1,2899.0,579.8,App Mobile,Pendente
+PED-10288,2026-10-08,179.080.759-08,cliente288@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,2,459.9,0.0,WhatsApp Comercial,Cancelado
+PED-10289,2026-10-15,920.867.808-34,cliente289@dominio.com.br,RS,Headset Noise Cancelling,Áudio,3,899.0,269.7,WhatsApp Comercial,Pendente
+PED-10290,2026-10-21,003.691.559-98,cliente290@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,5,6499.9,3249.95,App Mobile,Cancelado
+PED-10291,2026-10-24,276.365.564-56,cliente291@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,App Mobile,Pendente
+PED-10292,2026-10-18,386.632.270-43,cliente292@dominio.com.br,12,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,WhatsApp Comercial,Estornado
+PED-10293,2026-10-04,612.034.717-85,cliente293@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,3,459.9,206.95,Marketplace,Cancelado
+PED-10294,2026-10-02,615.939.982-95,cliente294@dominio.com.br,SC,Headset Noise Cancelling,Áudio,3,899.0,134.85,Marketplace,Cancelado
+PED-10295,2026-10-25,947.225.699-67,cliente295@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,-2,289.5,0.0,Site Oficial,Aprovado
+PED-10296,2026-10-26,475.987.622-79,cliente296@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,3,459.9,68.98,App Mobile,Pendente
+PED-10297,2026-10-11,611.178.006-95,cliente297@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,1,1590.0,0.0,Site Oficial,Aprovado
+PED-10298,2026-10-20,334.722.820-02,cliente298@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,1,2899.0,289.9,Marketplace,Cancelado
+PED-10299,2026-11-05,728.299.796-99,cliente299@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Marketplace,Cancelado
+PED-10300,2026-10-20,564.240.082-76,cliente300@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,1,2899.0,289.9,Marketplace,Estornado
+PED-10301,2026-10-20,064.930.853-06,cliente301@dominio.com.br,BA,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,WhatsApp Comercial,Estornado
+PED-10302,2026-10-15,416.389.448-90,cliente302@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,WhatsApp Comercial,Pendente
+PED-10303,2026-10-08,797.497.350-13,   ,MG,Monitor Ultrawide 34,Periféricos,2,2899.0,289.9,Site Oficial,Aprovado
+PED-10304,2026-10-01,312.073.564-76,cliente304@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,2,459.9,91.98,Marketplace,Estornado
+PED-10305,2026-10-10,046.187.234-08,cliente305@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,3,6499.9,0.0,Site Oficial,Aprovado
+PED-10306,2026-10-29,303.718.376-42,cliente306@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,2,1590.0,318.0,Marketplace,Pendente
+PED-10307,2026-10-08,474.350.313-21,cliente307@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,5,6499.9,48749.25,Marketplace,Aprovado
+PED-10308,2026-10-16,009.792.513-62,cliente308@dominio.com.br,MG,Headset Noise Cancelling,Áudio,1,899.0,89.9,WhatsApp Comercial,Aprovado
+PED-10309,2026-10-23,281.273.585-68,cliente309@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,1,459.9,0.0,App Mobile,Aprovado
+PED-10310,2026-10-03,778.487.392-10,cliente310@dominio.com.br,PE,Teclado Mecânico RGB,Periféricos,2,459.9,45.99,Marketplace,Cancelado
+PED-10311,2026-10-11,182.744.857-18,cliente311@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,5,459.9,344.93,WhatsApp Comercial,Pendente
+PED-10312,2026-10-16,518.638.782-70,cliente312@dominio.com.br,GO,Headset Noise Cancelling,Áudio,3,899.0,404.55,Marketplace,Cancelado
+PED-10313,2026-11-03,102.203.173-21,cliente313@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,1,459.9,0.0,Site Oficial,Estornado
+PED-10314,2026-10-17,053.910.371-31,cliente314@dominio.com.br,DF,Headset Noise Cancelling,Áudio,5,899.0,674.25,Site Oficial,Cancelado
+PED-10315,2026-10-18,801.413.811-24,cliente315@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,-1,289.5,0.0,WhatsApp Comercial,Pendente
+PED-10316,2026-11-05,619.576.122-23,cliente316@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,2,1590.0,477.0,WhatsApp Comercial,Cancelado
+PED-10317,2026-10-23,585.566.593-30,cliente317@dominio.com.br,GO,Headset Noise Cancelling,Áudio,5,899.0,449.5,App Mobile,Estornado
+PED-10318,2026-10-29,760.049.082-07,cliente318@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,3,1590.0,238.5,Site Oficial,Cancelado
+PED-10319,2026-10-18,888.992.107-21,cliente319@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,App Mobile,Pendente
+PED-10320,2026-10-17,419.693.157-09,cliente320@dominio.com.br,MG,Headset Noise Cancelling,Áudio,2,899.0,0.0,WhatsApp Comercial,Aprovado
+PED-10321,2026-10-25,105.566.139-53,cliente321@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,1,459.9,68.98,WhatsApp Comercial,Aprovado
+PED-10322,2026-10-10,583.206.799-15,cliente322@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,Site Oficial,Pendente
+PED-10323,2026-10-22,179.086.416-01,cliente323@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,2,289.5,0.0,WhatsApp Comercial,Pendente
+PED-10324,2026-11-01,693.898.331-32,cliente324@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,WhatsApp Comercial,Cancelado
+PED-10325,2026-10-27,655.355.904-01,cliente325@dominio.com.br,MG,Headset Noise Cancelling,Áudio,1,899.0,0.0,Marketplace,Estornado
+PED-10326,2026-10-13,521.103.924-60,cliente326@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,Marketplace,Aprovado
+PED-10327,2026-10-14,833.884.879-44,cliente327@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,Site Oficial,Estornado
+PED-10328,2026-10-17,204.394.070-87,cliente328@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,5,1590.0,0.0,WhatsApp Comercial,Cancelado
+PED-10328,2026-10-02,463.681.579-33,cliente329@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Site Oficial,Pendente
+PED-10330,2026-10-16,845.762.055-01,cliente330@dominio.com.br,RS,Headset Noise Cancelling,Áudio,1,899.0,0.0,Marketplace,Pendente
+PED-10331,2026-10-17,608.432.562-90,cliente331@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,3,899.0,0.0,WhatsApp Comercial,Pendente
+PED-10332,2026-10-20,957.823.298-58,cliente332@dominio.com.br,PR,Headset Noise Cancelling,Áudio,2,899.0,179.8,App Mobile,Cancelado
+PED-10333,2026-10-10,925.188.125-12,cliente333@dominio.com.br,MG,Headset Noise Cancelling,Áudio,2,899.0,179.8,Site Oficial,Cancelado
+PED-10334,2026-10-29,423.122.099-93,cliente334@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,4,289.5,57.9,App Mobile,Pendente
+PED-10335,2026-10-31,289.752.677-76,cliente335@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,3,6499.9,0.0,App Mobile,Pendente
+PED-10336,2026-10-27,333.127.975-78,cliente336@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,App Mobile,Estornado
+PED-10337,2026-10-21,699.988.081-62,cliente337@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,5,6499.9,3249.95,WhatsApp Comercial,Aprovado
+PED-10338,2026-10-26,086.803.476-20,cliente338@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,5,2899.0,21742.5,Marketplace,Estornado
+PED-10339,2026-10-10,771.812.982-91,cliente339@dominio.com.br,BA,Headset Noise Cancelling,Áudio,1,899.0,134.85,WhatsApp Comercial,Cancelado
+PED-10340,2026-10-13,714.521.117-31,cliente340@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,4,2899.0,1739.4,Site Oficial,Estornado
+PED-10341,2026-10-25,860.259.222-17,cliente341@dominio.com.br,MG,Headset Noise Cancelling,Áudio,5,899.0,0.0,Site Oficial,Estornado
+PED-10342,2026-10-12,123.094.077-47,cliente342@dominio.com.br,DF,Cadeira Ergonômica Mesh,Escritório,4,1590.0,318.0,Site Oficial,Estornado
+PED-10343,2026-10-27,99999999999,cliente343@dominio.com.br,PE,Headset Noise Cancelling,Áudio,4,899.0,359.6,App Mobile,Aprovado
+PED-10344,2026-10-20,510.162.249-40,cliente344@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,2,6499.9,0.0,App Mobile,Estornado
+PED-10345,2026-10-20,556.168.147-84,cliente345@dominio.com.br,MG,Teclado Mecânico RGB,Periféricos,1,459.9,0.0,Site Oficial,Cancelado
+PED-10346,2026-10-14,901.981.794-99,cliente346@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,Marketplace,Cancelado
+PED-10347,2026-11-01,877.293.430-10,cliente347@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,3,899.0,0.0,Site Oficial,Estornado
+PED-10348,2026-10-27,605.583.034-55,cliente348@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,2,6499.9,1949.97,Site Oficial,Cancelado
+PED-10349,2026-10-08,556.990.235-00,cliente349@dominio.com.br,RS,Headset Noise Cancelling,Áudio,3,899.0,0.0,WhatsApp Comercial,Estornado
+PED-10350,2026-10-10,785.760.849-10,cliente350@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,2,1590.0,318.0,Site Oficial,Pendente
+PED-10351,2026-10-10,405.682.996-98,cliente351@dominio.com.br,MG,Teclado Mecânico RGB,Periféricos,3,459.9,0.0,Site Oficial,Cancelado
+PED-10352,2026-10-27,173.574.384-49,cliente352@dominio.com.br,MG,Teclado Mecânico RGB,Periféricos,1,459.9,23.0,Site Oficial,Cancelado
+PED-10353,2026-11-02,078.235.784-92,cliente353@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,1,2899.0,289.9,App Mobile,Aprovado
+PED-10354,2026-10-03,768.104.091-90,cliente354@dominio.com.br,RS,Headset Noise Cancelling,Áudio,2,899.0,2697.0,WhatsApp Comercial,Aprovado
+PED-10355,2026-10-14,533.448.571-69,cliente355@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,App Mobile,Pendente
+PED-10356,2026-11-02,138.585.424-31,cliente356@dominio.com.br,12,Notebook Pro 16,Eletrônicos,5,6499.9,4874.93,App Mobile,Pendente
+PED-10357,2026-10-31,016.016.629-20,cliente357@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,2,6499.9,0.0,WhatsApp Comercial,Cancelado
+PED-10358,2026-10-30,921.717.477-73,cliente358@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,App Mobile,Pendente
+PED-10359,2026-10-26,255.770.171-81,cliente359@dominio.com.br,RS,Headset Noise Cancelling,Áudio,3,899.0,134.85,WhatsApp Comercial,Estornado
+PED-10360,2026-10-09,816.158.148-76,cliente360@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,3,459.9,206.95,WhatsApp Comercial,Estornado
+PED-10361,2026-10-31,615.396.695-05,cliente361@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,App Mobile,Pendente
+PED-10362,2026-10-08,997.581.724-68,cliente362@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,5,6499.9,3249.95,Site Oficial,Aprovado
+PED-10363,2026-11-01,013.290.227-34,cliente363@dominio.com.br,PE,Headset Noise Cancelling,Áudio,4,899.0,179.8,Marketplace,Estornado
+PED-10364,2026-10-21,494.651.909-26,cliente364@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,2,289.5,0.0,WhatsApp Comercial,Pendente
+PED-10365,2026-10-04,085.140.369-71,cliente365@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,3,6499.9,2924.95,Marketplace,Estornado
+PED-10366,2026-10-12,123.456.789-00,cliente366@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,App Mobile,Aprovado
+PED-10367,2026-10-09,126.796.927-05,cliente367@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,WhatsApp Comercial,Estornado
+PED-10368,2026-10-01,973.846.895-70,cliente368@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,2,2899.0,579.8,Site Oficial,Estornado
+PED-10369,2026-10-06,284.781.891-06,cliente369@dominio.com.br,PR,Notebook Pro 16,Eletrônicos,5,6499.9,3249.95,WhatsApp Comercial,Aprovado
+PED-10370,2026-10-04,580.778.795-19,cliente370@dominio.com.br,BA,Headset Noise Cancelling,Áudio,5,899.0,224.75,Marketplace,Cancelado
+PED-10371,2026-10-17,079.290.490-78,   ,SC,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,WhatsApp Comercial,Aprovado
+PED-10372,2026-10-18,440.192.927-60,cliente372@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,2,459.9,137.97,App Mobile,Cancelado
+PED-10373,2026-11-03,051.292.766-98,cliente373@dominio.com.br,XX,Monitor Ultrawide 34,Periféricos,4,2899.0,0.0,WhatsApp Comercial,Pendente
+PED-10374,2026-10-04,,cliente374@dominio.com.br,BA,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,WhatsApp Comercial,Cancelado
+PED-10375,2026-10-21,801.856.945-27,cliente375@dominio.com.br,SC,Teclado Mecânico RGB,Periféricos,4,459.9,183.96,Marketplace,Aprovado
+PED-10376,2026-10-16,938.525.800-13,,RJ,Headset Noise Cancelling,Áudio,4,899.0,359.6,Site Oficial,Estornado
+PED-10377,2026-10-17,300.910.939-37,cliente377@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,2,459.9,45.99,Site Oficial,Aprovado
+PED-10378,2026-10-12,124.471.746-08,cliente378@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,4,2899.0,1739.4,Marketplace,Pendente
+PED-10379,2026-10-25,504.427.173-00,cliente379@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,WhatsApp Comercial,Pendente
+PED-10379,2026-10-28,391.741.011-70,cliente380@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,2,6499.9,1949.97,Marketplace,Estornado
+PED-10381,2026-10-25,425.690.877-34,cliente381@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Aprovado
+PED-10382,2026-10-08,985.546.015-48,cliente382@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,4,6499.9,2599.96,Marketplace,Aprovado
+PED-10383,2026-11-05,123.456.789-00,cliente383@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,2,459.9,0.0,App Mobile,Pendente
+PED-10383,2026-11-04,478.700.505-71,cliente384@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,4,289.5,0.0,WhatsApp Comercial,Aprovado
+PED-10385,2026-10-15,102.707.903-22,cliente385@dominio.com.br,MG,Cadeira Ergonômica Mesh,Escritório,5,1590.0,0.0,Site Oficial,Pendente
+PED-10386,2026-10-11,911.179.931-59,cliente386@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,WhatsApp Comercial,Cancelado
+PED-10387,2026-10-08,,cliente387@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,4,1590.0,318.0,Site Oficial,Cancelado
+PED-10388,2099-12-31,739.021.962-97,cliente388@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,WhatsApp Comercial,Aprovado
+PED-10389,2026-10-27,723.248.763-02,cliente389@dominio.com.br,MG,Cadeira Ergonômica Mesh,Escritório,5,1590.0,397.5,Site Oficial,Pendente
+PED-10390,2026-10-23,608.331.819-04,cliente390@dominio.com.br,RS,Headset Noise Cancelling,Áudio,1,899.0,44.95,App Mobile,Estornado
+PED-10391,2026-10-04,312.772.200-18,cliente391@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,2,1590.0,159.0,Marketplace,Pendente
+PED-10392,2026-10-03,108.220.781-04,cliente392@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,5,459.9,229.95,App Mobile,Estornado
+PED-10393,2026-10-21,315.313.636-01,cliente393@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,Site Oficial,Estornado
+PED-10394,2026-10-14,99999999999,cliente394@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,App Mobile,Cancelado
+PED-10395,2026-10-30,625.349.292-67,cliente395@dominio.com.br,GO,Monitor Ultrawide 34,Periféricos,1,2899.0,289.9,App Mobile,Aprovado
+PED-10396,2026-10-31,740.633.569-57,cliente396@dominio.com.br,PR,Headset Noise Cancelling,Áudio,4,899.0,0.0,App Mobile,Aprovado
+PED-10397,2026-11-02,068.671.773-28,cliente397@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,1,6499.9,649.99,Site Oficial,Estornado
+PED-10398,2026-10-16,107.427.990-50,cliente398@dominio.com.br,DF,Monitor Ultrawide 34,Periféricos,3,2899.0,434.85,WhatsApp Comercial,Pendente
+PED-10399,2026-10-30,016.580.464-55,cliente399@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,2,289.5,28.95,App Mobile,Aprovado
+PED-10400,2026-10-24,016.579.055-51,cliente400@dominio.com.br,BR,Teclado Mecânico RGB,Periféricos,1,459.9,68.98,Site Oficial,Pendente
+PED-10401,2026-10-14,355.486.401-35,cliente401@dominio.com.br,RS,Headset Noise Cancelling,Áudio,1,899.0,89.9,Marketplace,Estornado
+PED-10402,2026-11-04,847.951.371-37,cliente402@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,1,899.0,89.9,WhatsApp Comercial,Pendente
+PED-10403,2026-10-18,127.238.046-74,cliente403@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,App Mobile,Estornado
+PED-10404,2026-10-13,103.856.955-94,cliente404@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,WhatsApp Comercial,Estornado
+PED-10405,data_pendente,375.402.547-34,cliente405@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,App Mobile,Cancelado
+PED-10406,2026-10-16,105.927.452-36,cliente406@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,Site Oficial,Cancelado
+PED-10407,2026-11-04,284.106.727-07,cliente407@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,3,2899.0,869.7,App Mobile,Aprovado
+PED-10408,2026-10-19,749.297.517-13,cliente408@dominio.com.br,SP,Headset Noise Cancelling,Áudio,5,899.0,224.75,App Mobile,Aprovado
+PED-10408,2026-10-29,515.093.983-84,cliente409@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,App Mobile,Aprovado
+PED-10410,2026-10-26,375.998.056-21,cliente410@dominio.com.br,MG,Cadeira Ergonômica Mesh,Escritório,1,1590.0,238.5,WhatsApp Comercial,Cancelado
+PED-10411,2026-10-23,478.137.674-62,email@,MG,Notebook Pro 16,Eletrônicos,3,6499.9,974.98,WhatsApp Comercial,Estornado
+PED-10412,2026-11-03,519.610.646-42,cliente412@dominio.com.br,MG,,Periféricos,3,2899.0,869.7,WhatsApp Comercial,Pendente
+PED-10413,2026-10-20,947.873.002-96,cliente413@dominio.com.br,SC,Headset Noise Cancelling,Áudio,4,899.0,5394.0,Marketplace,Estornado
+PED-10414,2026-10-16,014.719.597-75,cliente414@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,2,289.5,57.9,WhatsApp Comercial,Cancelado
+PED-10415,2026-11-02,904.290.257-42,cliente415@dominio.com.br,12,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,Marketplace,Pendente
+PED-10416,2026-10-19,481.832.192-33,cliente416@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Marketplace,Cancelado
+PED-10417,2026-10-24,189.520.284-14,cliente417@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,3,1590.0,238.5,WhatsApp Comercial,Estornado
+PED-10418,2099-12-31,833.898.881-28,cliente418@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Aprovado
+PED-10419,2026-10-24,279.852.401-60,cliente419@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,3,289.5,43.43,App Mobile,Pendente
+PED-10420,2026-10-09,161.107.603-07,cliente420@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,2,459.9,0.0,Site Oficial,Aprovado
+PED-10421,2026-10-20,011.939.325-56,cliente421@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,1,459.9,0.0,Site Oficial,Pendente
+PED-10422,2026-10-23,289.389.119-50,cliente422@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,5,459.9,114.98,App Mobile,Pendente
+PED-10423,2026-10-07,387.592.712-56,cliente423@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,-2,2899.0,0.0,WhatsApp Comercial,Estornado
+PED-10424,2026-10-30,182.754.801-08,cliente424@dominio.com.br,RS,Notebook Pro 16,Eletrônicos,3,6499.9,0.0,WhatsApp Comercial,Aprovado
+PED-10425,2026-10-29,386.463.175-01,cliente425@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Site Oficial,Estornado
+PED-10426,2026-10-06,126.691.215-00,cliente426@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,4,289.5,173.7,Marketplace,Pendente
+PED-10426,2026-10-28,749.946.579-98,cliente427@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,WhatsApp Comercial,Cancelado
+PED-10428,2026-11-01,732.010.170-00,cliente428_sem_arroba.com,MG,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,WhatsApp Comercial,Cancelado
+PED-10429,2026-10-30,347.784.858-66,cliente429@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,5,1590.0,795.0,Site Oficial,Aprovado
+PED-10430,2026-10-21,677.002.842-53,cliente430@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,4,6499.9,2599.96,WhatsApp Comercial,Pendente
+PED-10431,2026-11-01,889.778.280-90,cliente431@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,4,289.5,0.0,Marketplace,Estornado
+PED-10432,2026-10-19,500.902.559-09,cliente432@dominio.com.br,SPO,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Marketplace,Estornado
+PED-10433,2026-10-16,334.911.415-67,cliente433@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,3,,0.0,Site Oficial,Cancelado
+PED-10434,2026-10-02,790.569.659-64,cliente434@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,4,899.0,179.8,WhatsApp Comercial,Aprovado
+PED-10435,2026-11-02,529.456.371-11,cliente435@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,2899.0,869.7,App Mobile,Cancelado
+PED-10436,2026-10-15,919.195.419-34,   ,PE,Teclado Mecânico RGB,Periféricos,5,459.9,229.95,WhatsApp Comercial,Estornado
+PED-10437,2026-11-04,536.649.878-37,cliente437@dominio.com.br,MG,Headset Noise Cancelling,Áudio,3,899.0,269.7,Site Oficial,Pendente
+PED-10438,2026-11-04,969.083.572-60,cliente438@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,4,2899.0,579.8,App Mobile,Cancelado
+PED-10439,2026-10-14,644.249.363-68,cliente439@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,3,289.5,1302.75,App Mobile,Pendente
+PED-10440,2026-10-28,603.242.044-26,cliente440@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,4,289.5,173.7,App Mobile,Aprovado
+PED-10441,2026-10-06,594.165.162-79,cliente441@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,Site Oficial,Aprovado
+PED-10442,2026-11-01,139.155.963-02,cliente442@dominio.com.br,BA,Headset Noise Cancelling,Áudio,-2,899.0,224.75,App Mobile,Pendente
+PED-10443,2026-10-04,785.158.673-97,cliente443@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,4,289.5,57.9,App Mobile,Cancelado
+PED-10444,2026-10-03,034.864.518-04,cliente444@dominio.com.br,PR,,Periféricos,3,459.9,0.0,WhatsApp Comercial,Estornado
+PED-10445,2026-10-20,327.560.417-18,cliente445@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,1,459.9,0.0,WhatsApp Comercial,Cancelado
+PED-10446,2026-11-02,156.985.700-86,cliente446@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,-1,6499.9,649.99,WhatsApp Comercial,Pendente
+PED-10447,2026-10-06,123.829.657-20,cliente447@dominio.com.br,SPO,Teclado Mecânico RGB,Periféricos,3,459.9,206.95,App Mobile,Cancelado
+PED-10448,2099-12-31,266.930.089-84,cliente448@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,1,2899.0,289.9,Site Oficial,Estornado
+PED-10449,2026-10-17,215.291.086-91,cliente449@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,5,289.5,144.75,WhatsApp Comercial,Aprovado
+PED-10450,2026-10-19,762.639.343-01,cliente450@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,2,2899.0,289.9,App Mobile,Estornado
+PED-10451,2026-10-16,973.597.107-07,cliente451@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,3,6499.9,974.98,Marketplace,Estornado
+PED-10452,2026-10-17,118.005.375-30,cliente452@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,Site Oficial,Aprovado
+PED-10453,2026-10-26,528.092.428-87,cliente453@dominio.com.br,12,Headset Noise Cancelling,Áudio,4,899.0,179.8,Marketplace,Estornado
+PED-10454,2026-10-21,027.456.449-12,cliente454@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,Marketplace,Estornado
+PED-10455,2026-11-05,703.203.207-90,cliente455@dominio.com.br,SC,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,App Mobile,Estornado
+PED-10456,2026-10-23,877.712.151-14,cliente456@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,1,289.5,28.95,Marketplace,Pendente
+PED-10457,2026-10-14,908.926.137-00,cliente457@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,5,1590.0,397.5,Marketplace,Aprovado
+PED-10458,2026-10-24,915.201.777-04,cliente458@dominio.com.br,SC,Cadeira Ergonômica Mesh,Escritório,1,1590.0,159.0,Site Oficial,Cancelado
+PED-10459,2026-10-21,923.045.018-93,cliente459@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,5,1590.0,795.0,WhatsApp Comercial,Aprovado
+PED-10460,2026-10-06,032.664.214-50,cliente460@dominio.com.br,DF,Monitor Ultrawide 34,Periféricos,2,2899.0,579.8,WhatsApp Comercial,Cancelado
+PED-10461,2026-10-07,583.776.749-55,cliente461@dominio.com.br,GO,Headset Noise Cancelling,Áudio,2,899.0,89.9,WhatsApp Comercial,Aprovado
+PED-10462,2026-10-28,610.857.327-97,cliente462@dominio.com.br,PE,Teclado Mecânico RGB,Periféricos,5,459.9,0.0,Site Oficial,Cancelado
+PED-10463,2026-10-10,243.864.908-92,cliente463@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,4,6499.9,1299.98,Site Oficial,Aprovado
+PED-10464,2026-10-17,549.180.172-07,cliente464@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,1,289.5,434.25,WhatsApp Comercial,Aprovado
+PED-10465,2026-10-29,945.232.194-60,cliente465_sem_arroba.com,RJ,Teclado Mecânico RGB,Periféricos,5,459.9,229.95,WhatsApp Comercial,Aprovado
+PED-10466,2026-10-26,123.456.789-00,cliente466@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,4,2899.0,1159.6,App Mobile,Aprovado
+PED-10467,data_pendente,368.314.727-02,cliente467@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,2,6499.9,1299.98,Site Oficial,Aprovado
+PED-10468,2026-10-31,079.334.960-59,cliente468@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,Site Oficial,Aprovado
+PED-10469,2026-11-01,998.407.678-44,cliente469@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,4,1590.0,636.0,WhatsApp Comercial,Pendente
+PED-10470,2026-10-21,814.671.795-07,cliente470@dominio.com.br,DF,Headset Noise Cancelling,Áudio,-2,899.0,89.9,WhatsApp Comercial,Aprovado
+PED-10471,2026-11-02,395.972.466-78,cliente471@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,4,459.9,0.0,WhatsApp Comercial,Pendente
+PED-10472,2026-10-09,232.971.674-59,cliente472@dominio.com.br,PR,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,App Mobile,Aprovado
+PED-10473,2026-10-11,280.156.193-27,cliente473@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,3,459.9,68.98,App Mobile,Estornado
+PED-10474,2026-11-05,428.910.771-05,cliente474@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,3,459.9,0.0,Site Oficial,Aprovado
+PED-10475,2026-10-24,247.871.255-59,cliente475@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,Site Oficial,Pendente
+PED-10476,2026-10-31,548.214.565-40,cliente476@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,App Mobile,Estornado
+PED-10477,2026-10-27,785.072.081-42,cliente477@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,4,2899.0,1159.6,Marketplace,Cancelado
+PED-10478,2026-10-26,029.084.668-48,cliente478@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,4,2899.0,17394.0,Marketplace,Cancelado
+PED-10479,2026-10-26,738.997.563-63,cliente479@dominio.com.br,SC,Headset Noise Cancelling,Áudio,5,899.0,0.0,Site Oficial,Aprovado
+PED-10480,2026-11-04,431.884.852-39,cliente480@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,2,289.5,86.85,Site Oficial,Cancelado
+PED-10481,2026-10-08,054.851.017-20,cliente481@dominio.com.br,SC,Teclado Mecânico RGB,Periféricos,4,459.9,275.94,Site Oficial,Estornado
+PED-10482,2026-11-04,935.449.268-14,cliente482@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,5,2899.0,2174.25,Site Oficial,Cancelado
+PED-10483,2026-10-07,266.110.627-85,cliente483@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,3,2899.0,869.7,WhatsApp Comercial,Aprovado
+PED-10484,2026-11-05,864.976.776-15,cliente484@dominio.com.br,MG,Headset Noise Cancelling,Áudio,4,899.0,539.4,App Mobile,Pendente
+PED-10485,2026-11-03,137.702.851-82,cliente485@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,2,289.5,868.5,WhatsApp Comercial,Aprovado
+PED-10486,2026-10-08,545.447.022-83,cliente486@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,5,6499.9,0.0,WhatsApp Comercial,Aprovado
+PED-10487,2026-10-12,701.851.067-81,cliente487@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,3,459.9,0.0,Marketplace,Estornado
+PED-10488,2026-10-09,287.772.519-70,cliente488@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,4,289.5,173.7,WhatsApp Comercial,Estornado
+PED-10489,2026-10-03,741.209.481-53,cliente489@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,3,289.5,130.28,Site Oficial,Pendente
+PED-10490,2026-11-03,378.018.204-10,cliente490@dominio.com.br,12,Headset Noise Cancelling,Áudio,5,899.0,0.0,App Mobile,Estornado
+PED-10491,2026-10-02,562.608.564-58,cliente491@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,1,899.0,89.9,Site Oficial,Aprovado
+PED-10492,2026-10-17,124.620.952-76,cliente492@dominio.com.br,SP,Teclado Mecânico RGB,Periféricos,2,459.9,0.0,Site Oficial,Cancelado
+PED-10493,2026-10-21,461.033.993-51,cliente493@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,2,459.9,91.98,WhatsApp Comercial,Aprovado
+PED-10494,2026-10-27,170.630.489-70,cliente494@dominio.com.br,RJ,Teclado Mecânico RGB,Periféricos,4,459.9,275.94,App Mobile,Pendente
+PED-10495,2026-11-02,325.823.868-55,cliente495@dominio.com.br,DF,Mouse Wireless Ergonomic,Periféricos,4,289.5,0.0,Site Oficial,Aprovado
+PED-10496,2026-10-01,074.946.539-53,   ,PE,Headset Noise Cancelling,Áudio,3,899.0,0.0,Marketplace,Aprovado
+PED-10497,2026-10-09,846.398.554-86,cliente497@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,Marketplace,Pendente
+PED-10498,2026-10-30,950.209.700-93,cliente498@dominio.com.br,MG,Teclado Mecânico RGB,Periféricos,3,459.9,0.0,WhatsApp Comercial,Estornado
+PED-10499,2026-11-04,071.569.562-21,cliente499@dominio.com.br,SP,Headset Noise Cancelling,Áudio,1,899.0,0.0,Site Oficial,Estornado
+PED-10500,2026-10-15,045.319.433-84,cliente500@dominio.com.br,DF,Monitor Ultrawide 34,Periféricos,4,2899.0,0.0,Marketplace,Aprovado
