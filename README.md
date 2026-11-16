@@ -49,18 +49,18 @@ data-quality-gatekeeper/
 
 ### Painel Interativo (Streamlit)
 Upload de arquivos `.csv`/`.xlsx` ou simulação instantânea, KPIs de qualidade, gráfico de ofensores e download direto dos resultados.
-[assets/dashboard.png]
+<img src="assets/dashboard.png" alt="Dashboard Streamlit" width="100%">
 
 ### Relatório Executivo Automatizado (Excel)
 Geração de planilha `.xlsx` estilizada com 3 abas (`Resumo_Executivo`, `Dados_Aprovados` e `Quarentena_Erros`).
-[assets/excel_resumo.png]
+<img src="assets/excel_resumo.png" alt="Resumo Executivo Excel" width="100%">
 
 ### Rastreabilidade de Quarentena e Testes Automatizados
 Inspeção detalhada dos registros rejeitados com motivo exato da falha e cobertura de regras garantida via `pytest`.
 
 | Aba de Quarentena | Suíte de Testes (`pytest`) |
 | :---: | :---: |
-| [assets/quarentena.png] | [assets/pytest.png] |
+| <img src="assets/quarentena.png" alt="Quarentena" width="100%"> | <img src="assets/pytest.png" alt="Pytest" width="100%"> |
 
 ---
 
