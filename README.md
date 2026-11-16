@@ -45,22 +45,22 @@ data-quality-gatekeeper/
 
 ---
 
-## Demonstração
+## 📸 Demonstração
 
 ### Painel Interativo (Streamlit)
 Upload de arquivos `.csv`/`.xlsx` ou simulação instantânea, KPIs de qualidade, gráfico de ofensores e download direto dos resultados.
-
+[assets/dashboard.png]
 
 ### Relatório Executivo Automatizado (Excel)
 Geração de planilha `.xlsx` estilizada com 3 abas (`Resumo_Executivo`, `Dados_Aprovados` e `Quarentena_Erros`).
-
+[assets/excel_resumo.png]
 
 ### Rastreabilidade de Quarentena e Testes Automatizados
 Inspeção detalhada dos registros rejeitados com motivo exato da falha e cobertura de regras garantida via `pytest`.
 
 | Aba de Quarentena | Suíte de Testes (`pytest`) |
 | :---: | :---: |
-|  |  |
+| [assets/quarentena.png] | [assets/pytest.png] |
 
 ---
 
@@ -99,7 +99,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Autor
+## Autor
 
 Desenvolvido por **Rômulo Wagnes Ferreira**  
 [GitHub](https://www.google.com/search?q=https://github.com/Romulo567)
