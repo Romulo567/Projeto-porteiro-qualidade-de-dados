@@ -1,0 +1,115 @@
+﻿id_pedido,data_venda,cpf_cliente,email_cliente,uf,produto,categoria,quantidade,preco_unitario,desconto,canal_venda,status_pagamento,qtd_erros,motivo_erro
+PED-10002,2026-10-13,863.794.026-91,cliente2@dominio.com.br,XX,Headset Noise Cancelling,Áudio,1,899.0,134.85,Marketplace,Pendente,1,UF inválida
+PED-10009,2026-10-20,893.252.880-28,cliente9@dominio.com.br,SPO,Monitor Ultrawide 34,Periféricos,5,2899.0,0.0,Marketplace,Estornado,1,UF inválida
+PED-10011,2026-10-26,123.456.789-00,cliente11@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,2,1590.0,159.0,App Mobile,Pendente,1,CPF inválido
+PED-10012,2026-10-05,834.738.299-94,cliente12@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,App Mobile,Estornado,1,ID do pedido duplicado
+PED-10012,2026-10-28,566.701.065-80,cliente13@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,App Mobile,Pendente,1,ID do pedido duplicado
+PED-10016,2026-10-04,500.978.820-97,email@,PE,Notebook Pro 16,Eletrônicos,5,6499.9,4874.93,Site Oficial,Pendente,1,E-mail inválido ou ausente
+PED-10021,data_pendente,005.242.786-28,cliente21@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,1,6499.9,649.99,Site Oficial,Aprovado,1,Data de venda inválida ou no futuro
+PED-10032,2026-11-01,347.143.455-08,cliente32@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,,1304.55,Site Oficial,Pendente,1,Preço unitário ausente
+PED-10035,2026-10-09,980.699.016-16,cliente35@dominio.com.br,MG,,Periféricos,2,289.5,57.9,WhatsApp Comercial,Pendente,1,Produto ausente
+PED-10038,2026-10-08,241.904.966-77,cliente38@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,5,2899.0,21742.5,Site Oficial,Pendente,1,Desconto maior que o valor bruto
+PED-10046,2026-10-31,752.047.116-00,cliente46@dominio.com.br,DF,Headset Noise Cancelling,Áudio,3,899.0,4045.5,Site Oficial,Aprovado,1,Desconto maior que o valor bruto
+PED-10050,2026-10-11,ABC.123.456-99,cliente50@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Estornado,1,CPF inválido
+PED-10053,2026-10-30,154.516.808-33,cliente53@dominio.com.br,12,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,WhatsApp Comercial,Aprovado,1,UF inválida
+PED-10078,2026-10-15,158.514.936-58,cliente78@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,2,2899.0,8697.0,Site Oficial,Cancelado,1,Desconto maior que o valor bruto
+PED-10085,2026-10-15,521.818.835-21,cliente85@dominio.com.br,RS,Mouse Wireless Ergonomic,Periféricos,3,289.5,1302.75,App Mobile,Pendente,1,Desconto maior que o valor bruto
+PED-10087,2026-10-18,905.814.770-30,,SP,Mouse Wireless Ergonomic,Periféricos,4,289.5,57.9,Marketplace,Cancelado,1,E-mail inválido ou ausente
+PED-10096,2026-10-26,853.615.305-90,cliente96@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,4,6499.9,38999.4,Marketplace,Pendente,1,Desconto maior que o valor bruto
+PED-10103,2026-10-24,841.616.928-46,cliente103@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,4,2899.0,17394.0,Marketplace,Aprovado,1,Desconto maior que o valor bruto
+PED-10112,2026-11-02,299.229.959-64,cliente112@dominio.com.br,SP,Headset Noise Cancelling,Áudio,5,899.0,6742.5,Site Oficial,Aprovado,1,Desconto maior que o valor bruto
+PED-10115,31/02/2026,321.046.963-64,cliente115@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,Marketplace,Cancelado,1,Data de venda inválida ou no futuro
+PED-10123,2026-10-21,786.527.858-64,cliente123@dominio.com.br,RS,Headset Noise Cancelling,Áudio,-2,899.0,269.7,Marketplace,Estornado,1,Quantidade menor ou igual a zero
+PED-10125,2026-10-19,157.473.384-20,cliente125@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,0,2899.0,0.0,Marketplace,Pendente,1,Quantidade menor ou igual a zero
+PED-10127,2026-10-19,019.380.262-76,cliente127@dominio.com.br,SP,Monitor Ultrawide 34,Periféricos,3,2899.0,13045.5,WhatsApp Comercial,Estornado,1,Desconto maior que o valor bruto
+PED-10147,2026-10-27,,cliente147@dominio.com.br,SP,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,WhatsApp Comercial,Estornado,1,CPF ausente
+PED-10150,2026-10-06,765.918.033-94,   ,GO,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,WhatsApp Comercial,Cancelado,1,E-mail inválido ou ausente
+PED-10152,2026-10-09,185.016.315-40,cliente152@dominio.com.br,GO,Headset Noise Cancelling,Áudio,3,899.0,4045.5,WhatsApp Comercial,Cancelado,1,Desconto maior que o valor bruto
+PED-10165,2026-10-12,825.867.362-90,cliente165@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,-2,2899.0,869.7,WhatsApp Comercial,Estornado,2,ID do pedido duplicado | Quantidade menor ou igual a zero
+PED-10165,2026-10-01,334.191.825-62,cliente166@dominio.com.br,RS,Headset Noise Cancelling,Áudio,4,899.0,359.6,App Mobile,Estornado,1,ID do pedido duplicado
+PED-10169,2026-10-11,742.257.905-68,cliente169@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,2,,477.0,WhatsApp Comercial,Pendente,1,Preço unitário ausente
+PED-10175,2026-11-02,,cliente175@dominio.com.br,RS,Cadeira Ergonômica Mesh,Escritório,1,1590.0,159.0,Site Oficial,Estornado,1,CPF ausente
+PED-10176,31/02/2026,589.297.500-28,cliente176@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,3,289.5,43.43,WhatsApp Comercial,Aprovado,1,Data de venda inválida ou no futuro
+PED-10180,2026-11-03,909.275.326-20,email@,GO,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,WhatsApp Comercial,Pendente,1,E-mail inválido ou ausente
+PED-10183,2026-10-24,526.965.827-50,cliente183@dominio.com.br,RJ,Notebook Pro 16,Eletrônicos,0,6499.9,0.0,Site Oficial,Aprovado,1,Quantidade menor ou igual a zero
+PED-10184,2026-10-19,866.618.892-84,cliente184@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,0,6499.9,3899.94,Site Oficial,Cancelado,1,Quantidade menor ou igual a zero
+PED-10189,2026-11-05,ABC.123.456-99,cliente189@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,2,2899.0,0.0,Site Oficial,Aprovado,1,CPF inválido
+PED-10191,2026-10-16,206.038.505-96,cliente191@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,-2,289.5,86.85,WhatsApp Comercial,Cancelado,1,Quantidade menor ou igual a zero
+PED-10192,2026-10-18,ABC.123.456-99,cliente192@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,App Mobile,Estornado,1,CPF inválido
+PED-10193,31/02/2026,456.557.431-40,cliente193@dominio.com.br,PR,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,App Mobile,Aprovado,1,Data de venda inválida ou no futuro
+PED-10194,2026-10-08,853.747.411-87,cliente194@dominio.com.br,BR,Mouse Wireless Ergonomic,Periféricos,3,289.5,86.85,Marketplace,Aprovado,1,UF inválida
+PED-10195,2026-10-26,804.420.678-79,cliente195@dominio.com.br,PE,Notebook Pro 16,Eletrônicos,2,6499.9,649.99,App Mobile,Aprovado,1,ID do pedido duplicado
+PED-10195,2026-10-04,323.651.994-02,cliente196@dominio.com.br,RJ,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,Site Oficial,Aprovado,1,ID do pedido duplicado
+PED-10198,2026-10-29,,cliente198@dominio.com.br,PE,Monitor Ultrawide 34,Periféricos,3,2899.0,434.85,WhatsApp Comercial,Aprovado,1,CPF ausente
+PED-10205,2026-10-12,096.902.959-42,email@,PR,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Site Oficial,Estornado,1,E-mail inválido ou ausente
+PED-10210,data_pendente,720.506.149-00,cliente210@dominio.com.br,DF,Notebook Pro 16,Eletrônicos,4,6499.9,3899.94,App Mobile,Aprovado,1,Data de venda inválida ou no futuro
+PED-10211,2026-10-08,99999999999,cliente211@dominio.com.br,RS,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,WhatsApp Comercial,Cancelado,1,CPF inválido
+PED-10214,2026-10-14,320.616.329-39,cliente214@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,2,,0.0,Marketplace,Aprovado,1,Preço unitário ausente
+PED-10230,2026-11-04,350.583.003-89,cliente230@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,1,,0.0,Marketplace,Cancelado,1,Preço unitário ausente
+PED-10234,2026-10-27,184.992.618-25,,GO,Monitor Ultrawide 34,Periféricos,1,2899.0,144.95,Site Oficial,Cancelado,1,E-mail inválido ou ausente
+PED-10236,2099-12-31,218.114.374-94,cliente236@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,1,6499.9,0.0,WhatsApp Comercial,Aprovado,1,Data de venda inválida ou no futuro
+PED-10239,2026-10-29,296.590.277-53,cliente239@dominio.com.br,RJ,Headset Noise Cancelling,Áudio,4,899.0,5394.0,WhatsApp Comercial,Estornado,1,Desconto maior que o valor bruto
+PED-10245,2026-11-03,,cliente245@dominio.com.br,GO,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,App Mobile,Pendente,1,CPF ausente
+PED-10248,2026-10-26,547.226.984-90,cliente248@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,2,1590.0,4770.0,Marketplace,Pendente,1,Desconto maior que o valor bruto
+PED-10254,2026-10-10,590.947.985-73,cliente254@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,Marketplace,Pendente,1,ID do pedido duplicado
+PED-10254,2026-10-11,688.615.335-82,cliente255@dominio.com.br,RS,Headset Noise Cancelling,Áudio,1,899.0,134.85,Marketplace,Cancelado,1,ID do pedido duplicado
+PED-10256,2026-10-23,739.930.561-75,cliente256@dominio.com.br,12,Headset Noise Cancelling,Áudio,1,899.0,0.0,Marketplace,Cancelado,1,UF inválida
+PED-10268,2026-10-09,722.992.750-10,cliente268@dominio.com.br,BR,Headset Noise Cancelling,Áudio,2,899.0,269.7,WhatsApp Comercial,Pendente,1,UF inválida
+PED-10272,2026-10-11,603.029.922-00,cliente272@dominio.com.br,PE,Mouse Wireless Ergonomic,Periféricos,2,289.5,868.5,Site Oficial,Pendente,1,Desconto maior que o valor bruto
+PED-10285,2026-11-04,947.697.357-90,,DF,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,Site Oficial,Estornado,1,E-mail inválido ou ausente
+PED-10287,2026-10-23,394.237.333-52,cliente287@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,-1,2899.0,579.8,App Mobile,Pendente,1,Quantidade menor ou igual a zero
+PED-10292,2026-10-18,386.632.270-43,cliente292@dominio.com.br,12,Cadeira Ergonômica Mesh,Escritório,2,1590.0,0.0,WhatsApp Comercial,Estornado,1,UF inválida
+PED-10295,2026-10-25,947.225.699-67,cliente295@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,-2,289.5,0.0,Site Oficial,Aprovado,1,Quantidade menor ou igual a zero
+PED-10303,2026-10-08,797.497.350-13,   ,MG,Monitor Ultrawide 34,Periféricos,2,2899.0,289.9,Site Oficial,Aprovado,1,E-mail inválido ou ausente
+PED-10307,2026-10-08,474.350.313-21,cliente307@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,5,6499.9,48749.25,Marketplace,Aprovado,1,Desconto maior que o valor bruto
+PED-10315,2026-10-18,801.413.811-24,cliente315@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,-1,289.5,0.0,WhatsApp Comercial,Pendente,1,Quantidade menor ou igual a zero
+PED-10328,2026-10-17,204.394.070-87,cliente328@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,5,1590.0,0.0,WhatsApp Comercial,Cancelado,1,ID do pedido duplicado
+PED-10328,2026-10-02,463.681.579-33,cliente329@dominio.com.br,PE,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,Site Oficial,Pendente,1,ID do pedido duplicado
+PED-10338,2026-10-26,086.803.476-20,cliente338@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,5,2899.0,21742.5,Marketplace,Estornado,1,Desconto maior que o valor bruto
+PED-10343,2026-10-27,99999999999,cliente343@dominio.com.br,PE,Headset Noise Cancelling,Áudio,4,899.0,359.6,App Mobile,Aprovado,1,CPF inválido
+PED-10354,2026-10-03,768.104.091-90,cliente354@dominio.com.br,RS,Headset Noise Cancelling,Áudio,2,899.0,2697.0,WhatsApp Comercial,Aprovado,1,Desconto maior que o valor bruto
+PED-10356,2026-11-02,138.585.424-31,cliente356@dominio.com.br,12,Notebook Pro 16,Eletrônicos,5,6499.9,4874.93,App Mobile,Pendente,1,UF inválida
+PED-10366,2026-10-12,123.456.789-00,cliente366@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,App Mobile,Aprovado,1,CPF inválido
+PED-10371,2026-10-17,079.290.490-78,   ,SC,Notebook Pro 16,Eletrônicos,5,6499.9,1624.98,WhatsApp Comercial,Aprovado,1,E-mail inválido ou ausente
+PED-10373,2026-11-03,051.292.766-98,cliente373@dominio.com.br,XX,Monitor Ultrawide 34,Periféricos,4,2899.0,0.0,WhatsApp Comercial,Pendente,1,UF inválida
+PED-10374,2026-10-04,,cliente374@dominio.com.br,BA,Cadeira Ergonômica Mesh,Escritório,3,1590.0,0.0,WhatsApp Comercial,Cancelado,1,CPF ausente
+PED-10376,2026-10-16,938.525.800-13,,RJ,Headset Noise Cancelling,Áudio,4,899.0,359.6,Site Oficial,Estornado,1,E-mail inválido ou ausente
+PED-10379,2026-10-25,504.427.173-00,cliente379@dominio.com.br,GO,Teclado Mecânico RGB,Periféricos,1,459.9,45.99,WhatsApp Comercial,Pendente,1,ID do pedido duplicado
+PED-10379,2026-10-28,391.741.011-70,cliente380@dominio.com.br,GO,Notebook Pro 16,Eletrônicos,2,6499.9,1949.97,Marketplace,Estornado,1,ID do pedido duplicado
+PED-10383,2026-11-05,123.456.789-00,cliente383@dominio.com.br,DF,Teclado Mecânico RGB,Periféricos,2,459.9,0.0,App Mobile,Pendente,2,ID do pedido duplicado | CPF inválido
+PED-10383,2026-11-04,478.700.505-71,cliente384@dominio.com.br,SP,Mouse Wireless Ergonomic,Periféricos,4,289.5,0.0,WhatsApp Comercial,Aprovado,1,ID do pedido duplicado
+PED-10387,2026-10-08,,cliente387@dominio.com.br,RJ,Cadeira Ergonômica Mesh,Escritório,4,1590.0,318.0,Site Oficial,Cancelado,1,CPF ausente
+PED-10388,2099-12-31,739.021.962-97,cliente388@dominio.com.br,SP,Cadeira Ergonômica Mesh,Escritório,3,1590.0,715.5,WhatsApp Comercial,Aprovado,1,Data de venda inválida ou no futuro
+PED-10394,2026-10-14,99999999999,cliente394@dominio.com.br,SC,Notebook Pro 16,Eletrônicos,4,6499.9,0.0,App Mobile,Cancelado,1,CPF inválido
+PED-10400,2026-10-24,016.579.055-51,cliente400@dominio.com.br,BR,Teclado Mecânico RGB,Periféricos,1,459.9,68.98,Site Oficial,Pendente,1,UF inválida
+PED-10405,data_pendente,375.402.547-34,cliente405@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,3,2899.0,0.0,App Mobile,Cancelado,1,Data de venda inválida ou no futuro
+PED-10408,2026-10-19,749.297.517-13,cliente408@dominio.com.br,SP,Headset Noise Cancelling,Áudio,5,899.0,224.75,App Mobile,Aprovado,1,ID do pedido duplicado
+PED-10408,2026-10-29,515.093.983-84,cliente409@dominio.com.br,SC,Mouse Wireless Ergonomic,Periféricos,5,289.5,0.0,App Mobile,Aprovado,1,ID do pedido duplicado
+PED-10411,2026-10-23,478.137.674-62,email@,MG,Notebook Pro 16,Eletrônicos,3,6499.9,974.98,WhatsApp Comercial,Estornado,1,E-mail inválido ou ausente
+PED-10412,2026-11-03,519.610.646-42,cliente412@dominio.com.br,MG,,Periféricos,3,2899.0,869.7,WhatsApp Comercial,Pendente,1,Produto ausente
+PED-10413,2026-10-20,947.873.002-96,cliente413@dominio.com.br,SC,Headset Noise Cancelling,Áudio,4,899.0,5394.0,Marketplace,Estornado,1,Desconto maior que o valor bruto
+PED-10415,2026-11-02,904.290.257-42,cliente415@dominio.com.br,12,Mouse Wireless Ergonomic,Periféricos,1,289.5,14.48,Marketplace,Pendente,1,UF inválida
+PED-10418,2099-12-31,833.898.881-28,cliente418@dominio.com.br,BA,Monitor Ultrawide 34,Periféricos,1,2899.0,0.0,WhatsApp Comercial,Aprovado,1,Data de venda inválida ou no futuro
+PED-10423,2026-10-07,387.592.712-56,cliente423@dominio.com.br,RS,Monitor Ultrawide 34,Periféricos,-2,2899.0,0.0,WhatsApp Comercial,Estornado,1,Quantidade menor ou igual a zero
+PED-10426,2026-10-06,126.691.215-00,cliente426@dominio.com.br,PR,Mouse Wireless Ergonomic,Periféricos,4,289.5,173.7,Marketplace,Pendente,1,ID do pedido duplicado
+PED-10426,2026-10-28,749.946.579-98,cliente427@dominio.com.br,BA,Mouse Wireless Ergonomic,Periféricos,1,289.5,0.0,WhatsApp Comercial,Cancelado,1,ID do pedido duplicado
+PED-10428,2026-11-01,732.010.170-00,cliente428_sem_arroba.com,MG,Notebook Pro 16,Eletrônicos,1,6499.9,325.0,WhatsApp Comercial,Cancelado,1,E-mail inválido ou ausente
+PED-10432,2026-10-19,500.902.559-09,cliente432@dominio.com.br,SPO,Mouse Wireless Ergonomic,Periféricos,5,289.5,72.38,Marketplace,Estornado,1,UF inválida
+PED-10433,2026-10-16,334.911.415-67,cliente433@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,3,,0.0,Site Oficial,Cancelado,1,Preço unitário ausente
+PED-10436,2026-10-15,919.195.419-34,   ,PE,Teclado Mecânico RGB,Periféricos,5,459.9,229.95,WhatsApp Comercial,Estornado,1,E-mail inválido ou ausente
+PED-10439,2026-10-14,644.249.363-68,cliente439@dominio.com.br,RJ,Mouse Wireless Ergonomic,Periféricos,3,289.5,1302.75,App Mobile,Pendente,1,Desconto maior que o valor bruto
+PED-10442,2026-11-01,139.155.963-02,cliente442@dominio.com.br,BA,Headset Noise Cancelling,Áudio,-2,899.0,224.75,App Mobile,Pendente,1,Quantidade menor ou igual a zero
+PED-10444,2026-10-03,034.864.518-04,cliente444@dominio.com.br,PR,,Periféricos,3,459.9,0.0,WhatsApp Comercial,Estornado,1,Produto ausente
+PED-10446,2026-11-02,156.985.700-86,cliente446@dominio.com.br,MG,Notebook Pro 16,Eletrônicos,-1,6499.9,649.99,WhatsApp Comercial,Pendente,1,Quantidade menor ou igual a zero
+PED-10447,2026-10-06,123.829.657-20,cliente447@dominio.com.br,SPO,Teclado Mecânico RGB,Periféricos,3,459.9,206.95,App Mobile,Cancelado,1,UF inválida
+PED-10448,2099-12-31,266.930.089-84,cliente448@dominio.com.br,PR,Monitor Ultrawide 34,Periféricos,1,2899.0,289.9,Site Oficial,Estornado,1,Data de venda inválida ou no futuro
+PED-10453,2026-10-26,528.092.428-87,cliente453@dominio.com.br,12,Headset Noise Cancelling,Áudio,4,899.0,179.8,Marketplace,Estornado,1,UF inválida
+PED-10464,2026-10-17,549.180.172-07,cliente464@dominio.com.br,MG,Mouse Wireless Ergonomic,Periféricos,1,289.5,434.25,WhatsApp Comercial,Aprovado,1,Desconto maior que o valor bruto
+PED-10465,2026-10-29,945.232.194-60,cliente465_sem_arroba.com,RJ,Teclado Mecânico RGB,Periféricos,5,459.9,229.95,WhatsApp Comercial,Aprovado,1,E-mail inválido ou ausente
+PED-10466,2026-10-26,123.456.789-00,cliente466@dominio.com.br,MG,Monitor Ultrawide 34,Periféricos,4,2899.0,1159.6,App Mobile,Aprovado,1,CPF inválido
+PED-10467,data_pendente,368.314.727-02,cliente467@dominio.com.br,BA,Notebook Pro 16,Eletrônicos,2,6499.9,1299.98,Site Oficial,Aprovado,1,Data de venda inválida ou no futuro
+PED-10470,2026-10-21,814.671.795-07,cliente470@dominio.com.br,DF,Headset Noise Cancelling,Áudio,-2,899.0,89.9,WhatsApp Comercial,Aprovado,1,Quantidade menor ou igual a zero
+PED-10478,2026-10-26,029.084.668-48,cliente478@dominio.com.br,SC,Monitor Ultrawide 34,Periféricos,4,2899.0,17394.0,Marketplace,Cancelado,1,Desconto maior que o valor bruto
+PED-10485,2026-11-03,137.702.851-82,cliente485@dominio.com.br,GO,Mouse Wireless Ergonomic,Periféricos,2,289.5,868.5,WhatsApp Comercial,Aprovado,1,Desconto maior que o valor bruto
+PED-10490,2026-11-03,378.018.204-10,cliente490@dominio.com.br,12,Headset Noise Cancelling,Áudio,5,899.0,0.0,App Mobile,Estornado,1,UF inválida
+PED-10496,2026-10-01,074.946.539-53,   ,PE,Headset Noise Cancelling,Áudio,3,899.0,0.0,Marketplace,Aprovado,1,E-mail inválido ou ausente
